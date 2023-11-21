@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+
+body {
+  font-family: "Clash Display";
+  background-color: rgba(20, 13, 39, 1);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* font-family: 'Inter', sans-serif; */
+
+hr {
+  border: 0.1px solid rgba(255, 255, 255, 0.18);
+  width: 100%;
+}
